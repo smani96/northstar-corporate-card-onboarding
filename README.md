@@ -46,3 +46,18 @@ This represents a proposed 50% reduction across these selected stages only. Thes
 
 ## Project Note
 This is a portfolio-based business process analysis project using a simulated corporate card onboarding scenario. The proposed improvements and processing-time comparisons are illustrative and would require validation with real operational data before implementation.
+
+## Process Diagrams
+
+### As-Is Process
+![As-Is Corporate Card Onboarding Process](as%20is.png)
+
+[Download editable As-Is Bizagi model](AS-IS%20requirement.bpm)
+
+### To-Be Process
+![To-Be Corporate Card Onboarding Process](TO%20BE%20req.png)
+
+[Download editable To-Be Bizagi model](TO-BE%20requirement.bpm)
+
+## Project Report
+[Download the project report](Northstar%20Corporate%20Card%20Onboarding.docx)
